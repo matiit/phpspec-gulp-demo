@@ -1,0 +1,10 @@
+{
+	"name": "phpspec-gulp-demo",
+  	"description": "Just demo",
+  	"author": "Mateusz Tracz <matiqing@gmail.com>",
+	"dependencies": {
+	  "gulp": "3.8.7",
+	  "gulp-notify": "1.5.0",
+	  "gulp-phpspec": "0.2.5"
+	}
+}
